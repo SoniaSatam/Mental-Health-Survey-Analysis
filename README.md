@@ -1,4 +1,4 @@
-# SoniaSatam-Mental-Health-Survey-Analysis
+# Mental-Health-Survey-Analysis
 
 Data Collection and Preparation: Performed data preprocessing on mental health survey data from 2017 to 2021 using Python, ensuring data quality and consistency for analysis.
 
